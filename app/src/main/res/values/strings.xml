@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">newwebservices</string>
+    <string name="name">Name</string>
+    <string name="id">Id</string>
+    <string name="username">Username</string>
+    <string name="email">Email</string>
+    <string name="street">Street</string>
+    <string name="city">City</string>
+    <string name="suite">Suite</string>
+    <string name="zipcode">ZipCode</string>
+    <string name="tvid">Id:</string>
+</resources>
